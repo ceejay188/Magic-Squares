@@ -47,7 +47,7 @@ int main()
                 tracker++;
                 continue;
             }
-            else if (i == (n - 1) && j == ((n - 1) / 2)) // X
+            else if (i == (n - 1) && j == ((n - 1) / 2)) // L
             {
                 m_square[i][j] = (n*n);
                 tracker++;
